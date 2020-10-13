@@ -1,1 +1,1 @@
-# Metodologia Agil para el desarrollo de un proyecto integrador
+# Metodología Ágil para el desarrollo de un proyecto integrador
